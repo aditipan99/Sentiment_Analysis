@@ -1,4 +1,4 @@
-# Movie_Review_Sentiment_Analysis
+# Sentiment_Analysis
 Movie Review Sentiment Analysis using the IMDB dataset. (Maximum Accuracy achieved: 90%)
 
 Problem Statement: The problem in sentiment analysis is classifying the polarity of a given text at the document, sentence,
